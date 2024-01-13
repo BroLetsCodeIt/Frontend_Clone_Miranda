@@ -246,6 +246,8 @@ nav h5{
     font-weight: 200;
     line-height: 10rem;
 }
+
+
 .page2 .leftpage2 .left-page2-elem-2{
     width: 100%;
 }
@@ -253,6 +255,30 @@ nav h5{
 .leftpage2 .left-page2-elem-2 img{
     width: 100%;
 }
+.leftpage2 .left-page2-elem-3{
+    padding-top: 2rem;
+    font-family: edi;
+}
+.leftpage2 .left-page2-elem-3 p span{
+    font-size:4rem;
+    /* background-color: black; */
+    /* color: #C3BBB1; */
+    padding: 0.9rem 0.5rem;
+    display: inline-block;
+    border-radius: 0.9rem;
+}
+
+.leftpage2 .left-page2-elem-3 p{
+    display: block;
+    font-size: 1.6rem;
+    /* line-height: 1; */
+}
+
+
+
+
+
+
 .page2 .rightpage2{
     width: 65%;
     padding-left: 2rem;
@@ -275,4 +301,6 @@ nav h5{
 .right-page2-elem-2 h1{
     font-weight: 100;
     letter-spacing: -0.4rem;
+    border-bottom: 1px solid rgb(144, 142, 142);
+    /* opacity: 0.1;  */
 }
