@@ -1,5 +1,6 @@
 # Frontend Miranda Clone
 
+[LiveDemo](https://broletscodeit.github.io/Frontend_Clone_Miranda/)
 ### Techstack
 - html , css and js
 - gsap for animation
